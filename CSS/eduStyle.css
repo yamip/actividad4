@@ -1,0 +1,52 @@
+.main_header{
+    width: 100%;
+    height: 110px;
+    z-index: 101;
+    background: rgb(3, 251, 255);
+    font-size: 25px;
+    font-family: segoe print ;
+    text-align: center;
+    margin-top: -8px;
+}
+
+.menu ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: inline-flex;
+}
+  
+.menu ul{ 
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.menu li a:hover{
+    color: salmon;
+    text-decoration:overline;
+}
+
+.menu li a{
+    display: block;
+    padding: 15px;
+    text-decoration:none;
+    color: rgb(0, 4, 255);
+}
+
+h1{
+    text-align: center;
+    color: chartreuse;
+}
+
+
+body{
+    background: mediumorchid;
+    text-align: center;
+}
+
+
+p{
+font-size: 25px;
+background: white;
+text-align: center;
+}
